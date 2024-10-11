@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
-
+<!--
 # Welcome to My GitHub Profile 👋
 
 Hi, I'm **Amr**, a passionate developer with experience in **blockchain**, **MERN stack**, and **web3 development**. I'm currently pursuing a master's degree in **IT, Digitalization, and Sustainability**, with a focus on integrating emerging technologies into sustainable solutions.
@@ -37,10 +37,8 @@ Hi, I'm **Amr**, a passionate developer with experience in **blockchain**, **MER
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
 - **Twitter**: [Your Twitter](https://twitter.com/your-twitter-profile)
 
----
 
-This structure gives a professional yet concise overview of your skills, projects, and how people can contact you. Let me know if you'd like to tweak any section or add more details!
-
+-->
 
 
 
